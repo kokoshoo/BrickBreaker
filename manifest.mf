@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Justin Rodriguez
+Permissions: sandbox
+Codebase: www.kokoshoo@heliohost.org mmmenu.com/kokoshoo
